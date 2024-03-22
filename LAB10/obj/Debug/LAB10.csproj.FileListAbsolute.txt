@@ -1,0 +1,33 @@
+C:\Users\USER\Desktop\LAB10\bin\Debug\LAB10.exe.config
+C:\Users\USER\Desktop\LAB10\bin\Debug\LAB10.exe
+C:\Users\USER\Desktop\LAB10\bin\Debug\LAB10.pdb
+C:\Users\USER\Desktop\LAB10\obj\Debug\LAB10.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\LAB10\obj\Debug\LAB10.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Desktop\LAB10\obj\Debug\LAB10.Form1.resources
+C:\Users\USER\Desktop\LAB10\obj\Debug\LAB10.Properties.Resources.resources
+C:\Users\USER\Desktop\LAB10\obj\Debug\LAB10.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\LAB10\obj\Debug\LAB10.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\LAB10\obj\Debug\LAB10.exe
+C:\Users\USER\Desktop\LAB10\obj\Debug\LAB10.pdb
+D:\IUT\2nd sem\SWE-4202\LAB10\bin\Debug\LAB10.exe.config
+D:\IUT\2nd sem\SWE-4202\LAB10\bin\Debug\LAB10.exe
+D:\IUT\2nd sem\SWE-4202\LAB10\bin\Debug\LAB10.pdb
+D:\IUT\2nd sem\SWE-4202\LAB10\obj\Debug\LAB10.csproj.AssemblyReference.cache
+D:\IUT\2nd sem\SWE-4202\LAB10\obj\Debug\LAB10.csproj.SuggestedBindingRedirects.cache
+D:\IUT\2nd sem\SWE-4202\LAB10\obj\Debug\LAB10.Form1.resources
+D:\IUT\2nd sem\SWE-4202\LAB10\obj\Debug\LAB10.Properties.Resources.resources
+D:\IUT\2nd sem\SWE-4202\LAB10\obj\Debug\LAB10.csproj.GenerateResource.cache
+D:\IUT\2nd sem\SWE-4202\LAB10\obj\Debug\LAB10.csproj.CoreCompileInputs.cache
+D:\IUT\2nd sem\SWE-4202\LAB10\obj\Debug\LAB10.exe
+D:\IUT\2nd sem\SWE-4202\LAB10\obj\Debug\LAB10.pdb
+D:\IUT\IUT\2nd sem\SWE-4202\LAB10\bin\Debug\LAB10.exe.config
+D:\IUT\IUT\2nd sem\SWE-4202\LAB10\bin\Debug\LAB10.exe
+D:\IUT\IUT\2nd sem\SWE-4202\LAB10\bin\Debug\LAB10.pdb
+D:\IUT\IUT\2nd sem\SWE-4202\LAB10\obj\Debug\LAB10.csproj.AssemblyReference.cache
+D:\IUT\IUT\2nd sem\SWE-4202\LAB10\obj\Debug\LAB10.csproj.SuggestedBindingRedirects.cache
+D:\IUT\IUT\2nd sem\SWE-4202\LAB10\obj\Debug\LAB10.Form1.resources
+D:\IUT\IUT\2nd sem\SWE-4202\LAB10\obj\Debug\LAB10.Properties.Resources.resources
+D:\IUT\IUT\2nd sem\SWE-4202\LAB10\obj\Debug\LAB10.csproj.GenerateResource.cache
+D:\IUT\IUT\2nd sem\SWE-4202\LAB10\obj\Debug\LAB10.csproj.CoreCompileInputs.cache
+D:\IUT\IUT\2nd sem\SWE-4202\LAB10\obj\Debug\LAB10.exe
+D:\IUT\IUT\2nd sem\SWE-4202\LAB10\obj\Debug\LAB10.pdb
